@@ -1,5 +1,5 @@
 //
-//  DPViewController.h
+//  DPTableViewController.h
 //  UITableViewControllerChallengeSolution
 //
 //  Created by David Park on 10/16/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DPViewController : UIViewController
+@interface DPTableViewController : UITableViewController
 
 @end
